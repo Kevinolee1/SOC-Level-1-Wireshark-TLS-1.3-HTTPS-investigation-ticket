@@ -9,3 +9,5 @@ Investigated real network traffic involving TCP three-way handshakes, TLS 1.3, H
 
 ![Image alt](https://github.com/Kevinolee1/SOC-Level-1-Wireshark-TLS-1.3-HTTPS-investigation-ticket/blob/734594b172bf7aec39a802683d886d25e1af397b/Screenshot%202026-09-27%20203002.png)
 
+![Image alt](https://github.com/Kevinolee1/SOC-Level-1-Wireshark-TLS-1.3-HTTPS-investigation-ticket/blob/07634d289ece81c984909ca3695bda267358474f/Screenshot%202026-09-27%20203131.png)
+
