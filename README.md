@@ -1,7 +1,7 @@
 # SOC-Level-1-Wireshark-TLS-1.3-HTTPS-investigation-ticket
 Investigated real network traffic involving TCP three-way handshakes, TLS 1.3, HTTPS communication, retransmissions, and encrypted application data. Documented findings in osTicket and determined the activity was benign with no confirmed indicators of compromise.
 
-Type in the Victim's email, Name, what type of incident it is, and nam of the incident summury.
+Type in the Victim's email, Name, select the help topic, and the name of the incident summary.
 
 ![Image alt](https://github.com/Kevinolee1/SOC-Level-1-Wireshark-TLS-1.3-HTTPS-investigation-ticket/blob/4a4007b3f4d3fe2770dc440dbb2d9b310f9c4c35/Screenshot%202026-09-27%20202517.png)
 
